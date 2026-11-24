@@ -1,3 +1,5 @@
+#comme le nom du fichier lindique  fait par Raphaël 
+ 
 DROP DATABASE IF EXISTS asso_event;
  
 CREATE DATABASE asso_event
